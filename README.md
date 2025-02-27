@@ -25,10 +25,8 @@ The development server will start at [http://127.0.0.1:8000/](http://127.0.0.1:8
 
 - Check the output on the browser
 
-Open any web browser and navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/). You will see a JSON response like this
+Open any web browser and navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
-
-![Output](Output/Output.png)
 
 - Stop the Development server
 
